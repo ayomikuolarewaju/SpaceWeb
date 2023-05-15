@@ -2,7 +2,7 @@
   import Nav from '../../../components/nav.svelte';
   import img1 from '$lib/img/background-destination-desktop.jpg';
   import img2 from '$lib/img/background-destination-mobile.jpg';
-  import img6 from '$lib/img/image-mars.png';
+
   
   import {page} from '$app/stores';
   console.log($page)
